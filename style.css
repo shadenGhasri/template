@@ -64,45 +64,41 @@ header.sticky .logo,
 header.sticky ul li a{
     color: #000;
 }
-.welcome{
-    font-weight: bold;
-    font-size: xx-large;
-    
-}
 .img-first,
 .p-first{
     width: 600px;
     height: 500px;
 }
 .p-first{
-    padding-top: 100px;
     padding-left: 80px;
     padding-right: 50px;
     font-size: large;
+    padding-top: 100px;
 }
 .img-first{
     padding-right: 50px;
 }
-.h4-title,
+
 .h2-title{
+    margin-bottom: 130px;
     text-align: center;
     margin-top: 30px;
 }
 .h4-title{
     margin-top: 90px;
+    text-align: center;
 }
 .span-title{
     color: rgb(57, 57, 221);
     font-weight: bolder;
 }
-.card-box{
-    margin-top: 100px;
-    margin-bottom: 130px;
+.box-card{
+    height: 500px;
 }
 .contact-box{
-    width: 60rem;
-    height: 35rem;
-    border-radius: 20px;
-    margin: auto;
     background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
+}
+.text-left{
+    width: 300px;
+    margin-bottom: 40px;
 }
