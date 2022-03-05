@@ -64,3 +64,17 @@ header.sticky .logo,
 header.sticky ul li a{
     color: #000;
 }
+
+.img-first,
+.p-first{
+    width: 600px;
+    height: 500px;
+}
+.p-first{
+    padding-top: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.img-first{
+    padding-left: 70px;
+}
