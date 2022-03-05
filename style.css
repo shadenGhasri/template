@@ -97,7 +97,12 @@ header.sticky ul li a{
 }
 .card-box{
     margin-top: 100px;
+    margin-bottom: 130px;
 }
-.card :hover{
-    box-shadow: 0 14px 28px rgba(0,0,0,.25),0 10px 10px rgba(0,0,0,.22);
+.contact-box{
+    width: 60rem;
+    height: 35rem;
+    border-radius: 20px;
+    margin: auto;
+    background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
 }
