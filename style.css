@@ -64,7 +64,11 @@ header.sticky .logo,
 header.sticky ul li a{
     color: #000;
 }
-
+.welcome{
+    font-weight: bold;
+    font-size: xx-large;
+    
+}
 .img-first,
 .p-first{
     width: 600px;
@@ -72,9 +76,28 @@ header.sticky ul li a{
 }
 .p-first{
     padding-top: 100px;
-    padding-left: 50px;
+    padding-left: 80px;
     padding-right: 50px;
+    font-size: large;
 }
 .img-first{
-    padding-left: 70px;
+    padding-right: 50px;
+}
+.h4-title,
+.h2-title{
+    text-align: center;
+    margin-top: 30px;
+}
+.h4-title{
+    margin-top: 90px;
+}
+.span-title{
+    color: rgb(57, 57, 221);
+    font-weight: bolder;
+}
+.card-box{
+    margin-top: 100px;
+}
+.card :hover{
+    box-shadow: 0 14px 28px rgba(0,0,0,.25),0 10px 10px rgba(0,0,0,.22);
 }
