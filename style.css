@@ -79,14 +79,25 @@ header.sticky ul li a{
     padding-right: 50px;
 }
 
+.container-connect{
+    height: 450px;
+}
 .h2-title{
-    margin-bottom: 130px;
     text-align: center;
-    margin-top: 30px;
+    margin-top: 20px;
+    margin-bottom: 60px;
 }
 .h4-title{
-    margin-top: 90px;
+    margin-top: 10px;
     text-align: center;
+}
+.box-connect{
+    background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
+    width: 790px;
+    height: 280px;
+    margin: auto;
+    border-radius: 25px;
+
 }
 .span-title{
     color: rgb(57, 57, 221);
@@ -101,4 +112,8 @@ header.sticky ul li a{
 .text-left{
     width: 300px;
     margin-bottom: 40px;
+}
+.box-modal{
+    position: relative;
+    z-index: 1000000;
 }
