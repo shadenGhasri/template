@@ -130,9 +130,13 @@ header.sticky ul li a{
     height:400px ;
     background-color: rgba(72, 97, 155, 0.2);
 }
+.title-form,
+.form-footer{
+    margin-left: 70px;
+}
 .call-us{
-    height: 180px;
-    padding-top: 80px;
+    height: 170px;
+    padding-top: 60px;
 }
 /* .follow-us{
 
