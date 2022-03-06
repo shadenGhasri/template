@@ -91,13 +91,14 @@ header.sticky ul li a{
     margin-top: 10px;
     text-align: center;
 }
-.box-connect{
-    background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
-    width: 790px;
-    height: 280px;
+.box-todo{
     margin: auto;
-    border-radius: 25px;
-
+    width: 800px;
+    height: 300px;
+}
+.img-todo{
+    width:400;
+    height: 200px;
 }
 .span-title{
     color: rgb(57, 57, 221);
