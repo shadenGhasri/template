@@ -119,8 +119,14 @@ header.sticky ul li a{
     z-index: 1000000;
 }
 .footer-box{
-    width: 200px;
-    height: 600px;
-    background-color: #1b2a4e;
-
+    height: 500px;
+    background-color: rgb(27, 42, 78);
+}
+.footer-items{
+    height: 440px;
+    width: 500px;
+}
+.footer-item{
+    height:400px ;
+    background-color: rgba(72, 97, 155, 0.2);
 }
