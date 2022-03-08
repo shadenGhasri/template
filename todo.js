@@ -32,6 +32,8 @@ function serverRequest(query, callback){
   }
   serverRequest("The glass is half ", getResults);
 
+
+  
 // ba T.get darkhastio b tweeter ersal mikonim
 // para aval: masire darkhast
 // para 2: mavarede morede jostojo
